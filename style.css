@@ -91,6 +91,12 @@ body {
   cursor: pointer;
   margin: 0 5px;
 }
+.check {
+  color: lightgray;
+}
+.green {
+  color: rgb(0, 250, 21);
+}
 
 @media (max-width: 768px) {
   .nav {
