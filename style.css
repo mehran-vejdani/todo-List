@@ -69,6 +69,7 @@ body {
   margin: auto;
 }
 .item {
+  background: #fff;
   display: flex;
   justify-content: space-between;
   width: 100%;
